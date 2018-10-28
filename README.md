@@ -1,4 +1,4 @@
-# Zadanie rekrutacyjne - Katarzyna Wietecha-Mrzyglod
+# xyz
 
 **Informacje**
 * Po ściągnięciu projektu na lokalny komputer należy stworzyć folder node_modules (https://docs.npmjs.com/getting-started/creating-node-modules), ponieważ nie został on udostępniony.
