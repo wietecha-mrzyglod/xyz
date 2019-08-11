@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Przepisy from './components/Przepisy.vue'
-import Kontakt from './components/Kontakt.vue'
+import Recipes from './components/Recipes.vue'
+import Contact from './components/Contact.vue'
 
 Vue.use(Router)
 
@@ -10,12 +10,12 @@ export default new Router({
     {
       path: '/',
       name: 'przepisy',
-      component: Przepisy
+      component: Recipes
     },
     {
-      path: '/kontakt',
+      path: '/contact',
       name: 'kontakt',
-      component: Kontakt
+      component: Contact
     }
   ]
 })

@@ -1,12 +1,35 @@
-# xyz
+# Let's cook
 
-**Informacje**
-* Po ściągnięciu projektu na lokalny komputer należy stworzyć folder node_modules (https://docs.npmjs.com/getting-started/creating-node-modules), ponieważ nie został on udostępniony.
-* W celu uruchomienia projektu, w kosoli nalezy wpisać: ***npm run dev***
+**Basic info**
+
+An application with recipes and contact page.
 
 
+**Demo**
 
-**Technologie**
+Recipes:
+
+![screenshot of let's cook](/src/assets/lets-cook1.jpg)
+
+
+Contact:
+
+![screenshot of let's cook](/src/assets/lets-cook2.jpg)
+
+
+**Technologies Used**
+
 * HTML,
 * CSS,
-* JavaScript (Vue.js).
+* JavaScript,
+* Vue.js.
+
+
+**Build Setup**
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
